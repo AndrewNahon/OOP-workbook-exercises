@@ -1,0 +1,1 @@
+To instance @ volume we could add attr_accessor :volume

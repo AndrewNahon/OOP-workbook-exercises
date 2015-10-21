@@ -1,0 +1,1 @@
+The Pizza class has the instance variable. Instance varaibles are referenced with one @ sign.

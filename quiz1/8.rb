@@ -1,0 +1,1 @@
+self refers to the instance of the Cat class that is calling the method make_one_year_older.

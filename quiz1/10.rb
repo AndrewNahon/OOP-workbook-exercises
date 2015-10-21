@@ -1,0 +1,1 @@
+To create a new instance you would have to call Bag.new and input color and material parameters.

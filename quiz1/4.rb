@@ -1,0 +1,1 @@
+You instantiate a new instance of the class by calling AngryCat.new

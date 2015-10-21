@@ -1,0 +1,1 @@
+when you call .to_s on an object it will print the objects class and encoding to the console.
